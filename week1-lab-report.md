@@ -15,7 +15,7 @@ After, I was prompted to enter in the password that I reset back when I was acce
 ![Image](https://media.discordapp.net/attachments/368995972975558656/1063180340182663209/Screen_Shot_2023-01-12_at_11.38.14_AM.png)
 
 ## Running Commands 
-I was a bit late to the login step so I was looking for commands my teammates hadn't used yet. I first listed all the files in my current directory and then opened hello.txt with cat. Then I tried using ls /home/… without putting ls in front which verifies that my classmate’s directory does exist. When I attempted again with ls, not captured within the screenshot, I got a message saying that my permission was denied.
+I was a bit late to the login step so I was looking for commands my teammates hadn't used yet. I first listed all the files in my current directory and then opened `hello.txt` with cat. Then I tried using `ls /home/…` without putting `ls` in front which verifies that my classmate’s directory does exist. When I attempted again with `ls`, not captured within the screenshot, I got a message saying that my permission was denied.
 ![Image](https://media.discordapp.net/attachments/368995972975558656/1063180867419250698/Screen_Shot_2023-01-12_at_10.50.31_AM.png)
 
 ## Creating this website

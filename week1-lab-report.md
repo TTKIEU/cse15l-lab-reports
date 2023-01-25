@@ -11,7 +11,7 @@ If you don't want to install it, just use your computer's built in terminal and 
 * `ssh cs15lwi23zz@ieng6.ucsd.edu`
 replacing zz with your own CSE15L username. 
 
-After, I was prompted to enter in the password that I reset back when I was accessing my account credentials. I couldn't see what I was typing but I just trusted myself. If all goes well, your terminal should look like this:
+After, I was prompted to enter in the password that I reset back when I was accessing my account credentials. I couldn't see what I was typing but I just trusted myself. If all goes well, your terminal should look like this: 
 ![Image](https://media.discordapp.net/attachments/368995972975558656/1063180340182663209/Screen_Shot_2023-01-12_at_11.38.14_AM.png)
 
 ## Running Commands 

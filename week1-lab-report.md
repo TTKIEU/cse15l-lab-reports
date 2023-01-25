@@ -1,10 +1,8 @@
 # Week 1 Lab Report 
----
 ## Accessing my CSE15L account
 [UCSD Account LookUp](https://sdacs.ucsd.edu/~icc/index.php)
 I clicked the link above and entering in my credentials and scrolling down till I saw "_Additional Accounts_" with my CSE15L username boxed. I was then prompted to change my password through the "_Global Password Change_". After choosing a password for my account, I made sure to only change my password for the CSE15L account specifically.
 
----
 ## Remotely Connecting and Installing VSC
 I already had VSC installed but in the chance that you don't, goto the [Visual Studio Code Website](https://code.visualstudio.com/) and click download. After agreeing with the License Agreement, setup based on preferences and click finish. Launch Visual Studio Code and it will open. This is what my VSC looks like on default:
 ![Image](https://media.discordapp.net/attachments/368995972975558656/1063181555352211516/Screen_Shot_2023-01-12_at_10.21.07_AM.png?width=1440&height=936)

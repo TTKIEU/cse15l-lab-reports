@@ -1,7 +1,7 @@
 # Lab Report 3 
 ## Grep command line options:
   
-  ## `-v` : Prints every line but the String after grep
+## `-v` : Prints every line but the String after grep
    ![Image](https://media.discordapp.net/attachments/368995972975558656/1074862583636574248/Screen_Shot_2023-02-13_at_5.19.03_PM.png?width=1840&height=1197)
    ![Image](https://media.discordapp.net/attachments/368995972975558656/1074862583636574248/Screen_Shot_2023-02-13_at_5.19.03_PM.png?width=1840&height=1197)
    In image one, I omit "Chapter 1" with `grep -v Chapter 1 ch1.txt`
@@ -31,7 +31,7 @@ ch10.txt:A Coconstructing Cosmos?
    `Grep -v` is used to return every line that does not contain the specified string. It's useful for when you want to leave out or get rid of sentences that contain a certain String. 
    I used Learn Linux TV's [Linux Crash Course - The grep Command](https://www.youtube.com/watch?v=Tc_jntovCM0&ab_channel=LearnLinuxTV) video at 3:58.
    
- ## `-n` : Returns the line and the line number in which it is found
+## `-n` : Returns the line and the line number in which it is found
    ![Image](https://media.discordapp.net/attachments/368995972975558656/1074864247709909133/Screen_Shot_2023-02-13_at_5.26.23_PM.png)
    ![Image](https://cdn.discordapp.com/attachments/368995972975558656/1074864247382749184/Screen_Shot_2023-02-13_at_5.25.35_PM.png)
    In image one, I grep'd "astrobiology" with `grep -n astrobiology ch1.txt`

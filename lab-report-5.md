@@ -18,7 +18,7 @@ For lab report #3, I chose to focus on the command `grep`. For me, since I didn'
 ## -name
   Finds all the files with a certain string/name. It's useful for precisely searching through a folder for a certain file you have in mind. 
   
-  `find -f .-name "*.txt"
+  `find -f .-name "*.txt"`
   ![Image](https://media.discordapp.net/attachments/368995972975558656/1084934886277783733/Screen_Shot_2023-03-13_at_1.21.31_PM.png?width=1948&height=784)
   
   `find -f .-name "* WhatToDo.txt"`
@@ -37,7 +37,7 @@ For lab report #3, I chose to focus on the command `grep`. For me, since I didn'
 
 ## -maxdepth
   Finds files in the given depth of directores/subdirectories. It's useful for isolation files of a certain type or name in a directory or subdirectories. 
-  `find .-maxdepth 3 -name "* .txt"
+  `find .-maxdepth 3 -name "* .txt"`
   ![Image](https://media.discordapp.net/attachments/368995972975558656/1084944635140513802/Screen_Shot_2023-03-13_at_2.00.13_PM.png?width=1948&height=92)
   
   `find .maxdepth 4 -name "*.txt"`
